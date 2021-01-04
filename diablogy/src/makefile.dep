@@ -1,0 +1,2 @@
+$(OBJDIR)/libc.o: libc.c
+$(OBJDIR)/utils.o: utils.c utils.h libc.h
